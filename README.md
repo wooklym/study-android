@@ -12,7 +12,7 @@
 - 개발환경 준비
 - Hello World 앱 만들기
 
-## [Lesson2]()
+## [Lesson2](https://github.com/wooklym/study-android/tree/master/lesson2)
 
 - 변수를 써보자
 - 주석이란?
