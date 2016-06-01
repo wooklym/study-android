@@ -23,4 +23,10 @@
 - Layout XML에 있는 UI 컴포넌트를 Java 코드에서 불러오는 과정 자세히 살펴보기
 - 변수의 종류와 차이점 자세히 알아보기
 - 덧셈, 뺄셈, 곱셈, 나눗셈
-- 로그인 화면에 로봇방지를 위한 계산 문제 넣기
+- 회원가입 화면 만들기
+
+## [Lesson4](https://github.com/wooklym/study-android/tree/master/lessons4)
+
+- Java의 block scope 이해하기
+- 조건문 심화학습
+- 로그인과 회원가입 화면 혼자서 만들어보기
