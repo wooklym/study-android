@@ -29,4 +29,10 @@
 
 - Java의 block scope 이해하기
 - 조건문 심화학습
-- 로그인과 회원가입 화면 혼자서 만들어보기
+- 화면 이동시키기(Intent)
+- 로그인과 회원가입 화면 혼자서 만들어보기(실습)
+
+## [Lesson5](https://github.com/wooklym/study-android/tree/master/lesson5)
+- 불 상수를 이용한 논리 연산
+- Else, If Else 활용
+- 함수(메소드)의 개념
