@@ -36,3 +36,10 @@
 - 불 상수를 이용한 논리 연산
 - Else, If Else 활용
 - 함수(메소드)의 개념
+
+## [Lesson6](https://github.com/wooklym/study-android/tree/master/lesson6)
+- 여러 변수를 받는 매개함수
+- 함수의 반환값
+- 함수 안의 함수
+- 내장함수 활용하기
+- UI를 바꿀 수 있는 내장함수들
