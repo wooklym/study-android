@@ -42,4 +42,10 @@
 - 함수의 반환값
 - 함수 안의 함수
 - 내장함수 활용하기
-- UI를 바꿀 수 있는 내장함수들
+
+## [Lesson7](https://github.com/wooklym/study-android/tree/master/lesson7)
+- 새로운 레이아웃
+- 어디서든 써 줄 수 있는 변수
+- 이미지 사용하기
+- 모든 상황을 고려하기
+- 깃허브에 나의 프로젝트 올리기
