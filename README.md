@@ -48,4 +48,9 @@
 - 어디서든 써 줄 수 있는 변수
 - 이미지 사용하기
 - 모든 상황을 고려하기
+
+## [Lesson8](https://github.com/wooklym/study-android/tree/master/lesson8)
+- 점수 기능 추가하기
+- 가위바위보 효과 추가하기
+- 플레이스토어에 올리기
 - 깃허브에 나의 프로젝트 올리기
