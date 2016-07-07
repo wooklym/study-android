@@ -54,3 +54,10 @@
 - 가위바위보 효과 추가하기
 - 플레이스토어에 올리기
 - 깃허브에 나의 프로젝트 올리기
+
+## [Lesson9](https://github.com/wooklym/study-android/tree/master/lesson9)
+- 배열의 용도
+- 배열 만들고 접근하기
+- 배열 편집하기
+- 배열의 응용
+- 안드로이드 리스트뷰
