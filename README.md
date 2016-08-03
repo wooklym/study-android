@@ -72,3 +72,8 @@
 - for 반복문 응용
 - ArrayList
 - ListView 클릭 핸들링 & Alert Dialog
+
+## [Lesson12](https://github.com/wooklym/study-android/tree/master/lesson12)
+- 표준 라이브러리의 이해
+- 나만의 라이브러리 만들어 보기
+- 로그 라이브러리 만들기
